@@ -1,0 +1,4 @@
+tasks:
+  - name: Run News Scraper
+    command: python main.py
+    cwd: ./
